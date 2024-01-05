@@ -11,7 +11,7 @@ This Python application provides a simple and user-friendly GUI for resizing and
 
 ## Usage
 1. Download the repository or clone it to your local machine.
-2. Run the executable file (`Image_Resize_Application.exe`) on Windows or execute the Python script directly (`python image_resize.py` on other platforms).
+2. Run the executable file (`Main_Resize_Rename.exe`) on Windows or execute the Python script directly (`Main_Resize_Rename.py` on other platforms).
 3. The GUI will prompt you to provide the source folder, target width, and target height.
 4. Click the "Submit" button to initiate the resizing and renaming process.
 5. A success message will be displayed once all files are successfully processed.
