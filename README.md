@@ -1,4 +1,3 @@
-# Python_app_Image_Resize_And_Rename
 # Image Resize and Rename Tool
 
 ## Description
