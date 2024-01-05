@@ -16,7 +16,7 @@ This Python application provides a simple and user-friendly GUI for resizing and
 5. A success message will be displayed once all files are successfully processed.
 
 ## Screenshots
-![Application Screenshot]([application_screenshot.png](https://github.com/Zeaman/Python_app_Image_Resize_And_Rename/blob/main/application_screenshot.PNG))
+![Application Screenshot]([application_screenshot.png](https://github.com/Zeaman/Python_app_Image_Resize_And_Rename/blob/main/application_screenshot.PNG)
 
 ## Dependencies
 - Python 3.x
