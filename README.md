@@ -17,10 +17,11 @@ This Python application provides a simple and user-friendly GUI for resizing and
 
 ## Screenshots
 ![Application Screenshot](https://github.com/Zeaman/Python_app_Image_Resize_And_Rename/blob/main/application_screenshot.PNG)
+![Application Screenshot](https://github.com/Zeaman/Python_app_Image_Resize_And_Rename/blob/main/application_screenshot2.PNG)
 
 
 ## Dependencies
-- Python 3.x
+- Python 3.10
 - Tkinter
 - Pillow (PIL)
 
