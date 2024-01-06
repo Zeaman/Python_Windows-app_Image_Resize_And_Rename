@@ -1,5 +1,4 @@
 # Image Resize and Rename Tool
-
 ## Description
 This Python application provides a simple and user-friendly GUI for resizing and renaming images in bulk. The tool is built using the Tkinter library for the graphical interface and the Pillow (PIL) library for image manipulation.
 
