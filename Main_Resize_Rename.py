@@ -1,3 +1,6 @@
+"""
+Author: Amanuel Mihiret (MSc. in Mechatronics Engineering)
+"""
 # Import required dependencies:
 import os
 import tkinter as tk
